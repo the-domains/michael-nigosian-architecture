@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Michael Nigosian Architecture]]></title>
         <description><![CDATA[Michael Nigosian Architecture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/michael-nigosian-architecture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 16:40:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 16:41:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michael-nigosian-architecture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4679fab6-70b2-4f92-bd3e-427880bd0cb1.jpg">]]></description>
+            <link>https://thegrid.ai/michael-nigosian-architecture/salisbury-house-restoration/index.html</link>
+            <guid isPermaLink="false">e9ad5721-adfd-4764-a1af-d796fb00fedd</guid>
+            <pubDate>Sat, 12 Mar 2016 16:41:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae6e1bd4-9e95-442c-8cc1-351c1f193c9d.jpg">]]></description>
-            <link>undefined1039-w-3oth-street/index.html</link>
+            <link>https://thegrid.ai/michael-nigosian-architecture/1039-w-3oth-street/index.html</link>
             <guid isPermaLink="false">bc4519d9-9992-40f3-801e-ba9e87fd3436</guid>
             <pubDate>Sat, 12 Mar 2016 16:40:55 GMT</pubDate>
         </item>
