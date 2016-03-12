@@ -1,7 +1,7 @@
 name: Michael Nigosian Architecture
 favicon: null
-layout_spectrum: 0.8927
-typography_spectrum: 0.24651056481525302
+layout_spectrum: 0
+typography_spectrum: 0.68865
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#6595d7'
-    - '#ced0c5'
-    - '#243721'
-    - '#505244'
-    - '#ab7962'
+    - '#ffffff'
+    - '#000000'
+    - '#bfaf9e'
+    - '#35302c'
+    - '#827160'
   brandStrength: 0.5
   lightness: 0.883029782678932
   saturation: 0.1597427383530885
