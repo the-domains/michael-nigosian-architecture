@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Salisbury House Restoration
-datePublished: '2016-03-12T16:51:37.081Z'
-dateModified: '2016-03-12T16:51:19.831Z'
+datePublished: '2016-03-12T17:08:32.930Z'
+dateModified: '2016-03-12T17:08:32.589Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-salisbury-house-restoration.md
@@ -24,4 +24,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4679fab6-70b2-4f92-bd3e-427880bd0cb1.jpg)
 
-Salisbury House Restoration
+_**Salisbury House Restoration**_
